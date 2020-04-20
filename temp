@@ -1,0 +1,194 @@
+RE 27
+receiver ID is  3VYDT8I2XT9MW3VZJE06PG7SF9
+RE 11
+30 tot mem is 3950662152
+RE 11
+30 board version is  3842010096
+GT 7
+wkn=1812 wks=408576.000000
+DP 14
+hdop=0.968864 vdop=1.446198 tdop=1.065697
+GO 17
+gpsclockerror=-0.000000
+UO 24
+leapsecs=16
+GT 7
+wkn=1812 wks=408576.100000
+DP 14
+hdop=0.968871 vdop=1.446221 tdop=1.065716
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408576.200000
+DP 14
+hdop=0.968878 vdop=1.446245 tdop=1.065736
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408576.300000
+DP 14
+hdop=0.968885 vdop=1.446268 tdop=1.065755
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408576.400000
+DP 14
+hdop=0.968892 vdop=1.446291 tdop=1.065775
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408576.500000
+DP 14
+hdop=0.968899 vdop=1.446314 tdop=1.065794
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408576.600000
+DP 14
+hdop=0.968907 vdop=1.446338 tdop=1.065814
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408576.700000
+DP 14
+hdop=0.968914 vdop=1.446361 tdop=1.065833
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408576.800000
+DP 14
+hdop=0.968921 vdop=1.446384 tdop=1.065853
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408576.900000
+DP 14
+hdop=0.968928 vdop=1.446407 tdop=1.065872
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408577.000000
+DP 14
+hdop=0.968935 vdop=1.446431 tdop=1.065892
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408577.100000
+DP 14
+hdop=0.968943 vdop=1.446454 tdop=1.065911
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408577.200000
+DP 14
+hdop=0.968950 vdop=1.446477 tdop=1.065931
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408577.300000
+DP 14
+hdop=0.968957 vdop=1.446500 tdop=1.065950
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408577.400000
+DP 14
+hdop=0.968964 vdop=1.446524 tdop=1.065970
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408577.500000
+DP 14
+hdop=0.968971 vdop=1.446547 tdop=1.065989
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408577.600000
+DP 14
+hdop=0.968979 vdop=1.446570 tdop=1.066009
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408577.700000
+DP 14
+hdop=0.968986 vdop=1.446593 tdop=1.066028
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408577.800000
+DP 14
+hdop=0.968993 vdop=1.446617 tdop=1.066048
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408577.900000
+DP 14
+hdop=0.969000 vdop=1.446640 tdop=1.066067
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408578.000000
+DP 14
+hdop=0.969007 vdop=1.446663 tdop=1.066087
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408578.100000
+DP 14
+hdop=0.969015 vdop=1.446686 tdop=1.066106
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408578.200000
+DP 14
+hdop=0.969022 vdop=1.446709 tdop=1.066126
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408578.300000
+DP 14
+hdop=0.969029 vdop=1.446733 tdop=1.066145
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408578.400000
+DP 14
+hdop=0.969036 vdop=1.446756 tdop=1.066165
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408578.500000
+DP 14
+hdop=0.969043 vdop=1.446779 tdop=1.066184
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408578.600000
+DP 14
+hdop=0.969050 vdop=1.446802 tdop=1.066204
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408578.700000
+DP 14
+hdop=0.969058 vdop=1.446826 tdop=1.066223
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408578.800000
+DP 14
+hdop=0.969065 vdop=1.446849 tdop=1.066243
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408578.900000
+DP 14
+hdop=0.969072 vdop=1.446872 tdop=1.066262
+GO 17
+gpsclockerror=-0.000000
+GT 7
+wkn=1812 wks=408579.000000
+DP 14
+hdop=0.969079 vdop=1.446895 tdop=1.066282
+GO 17
+gpsclockerror=-0.000000
